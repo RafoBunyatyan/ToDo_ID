@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+	margin: 8px;
+}
+.true {
+    color: red;
+}
+
+.false {
+    color: black;
+}
+
+.button, .taskButton {
+    font-size: 30px;
+    margin: 12px;
+}
+
+.taskInput {
+    padding: 12px 30px;
+    margin: 0 auto;
+}
